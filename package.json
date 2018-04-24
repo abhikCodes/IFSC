@@ -1,0 +1,18 @@
+{
+  "name": "ifsc",
+  "version": "1.0.0",
+  "description": "\"ifsc code\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "ifsc-nodejs": "^1.0.5",
+    "path": "^0.12.7"
+  }
+}
